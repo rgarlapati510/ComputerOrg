@@ -41,4 +41,17 @@ my_malloc.h
 mem.c
 
 
+tl01.sim
+--> logical circuit functions
+
+tl02.sim
+--> advanced logical circuit functions
+
+tl03.asm
+--> advanced assembly code functions
+
+tl04.c, tl04.h
+--> advanced functions and operations in C
+
+
 
